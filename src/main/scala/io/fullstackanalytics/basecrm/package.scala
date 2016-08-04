@@ -7,7 +7,6 @@ package object basecrm {
 
   type Row = String
   type Result = List[Row]
-  type Uuid = String
   type SessionId = String
 
 }
